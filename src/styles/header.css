@@ -1,3 +1,7 @@
+.header-container{
+    display: flex;
+    justify-content: center;
+}
 .header-h1{
     color: green
 }
